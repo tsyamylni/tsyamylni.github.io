@@ -1,0 +1,21 @@
+h3{
+    color: seagreen
+}
+p{
+    color:lightblue
+}
+.kuning{
+    color:yellow;
+}
+
+h1{
+    padding: 20px;
+    /* border :20px solid black ; */
+   /* border-top-width: 2px;
+    border-top-style: solid;
+    border-top-color:rgb (red,green,blue);
+    top right left bottom */
+    border:10px solid green;
+    border-radius: 100px;
+    margin: 5px 10px 15px 20px;
+}
